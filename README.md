@@ -14,3 +14,9 @@ Pour envoyer les changements vers le repository distant (en l'occurence sur Gith
 
 `git pull`
 Récupérer les changements distants
+
+`git branch <nom-de-la-branche>`
+Pour switch de branche
+
+`git branch -b <nom-de-la-branche>`
+Pour créer une nouvelle branche
