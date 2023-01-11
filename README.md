@@ -20,3 +20,6 @@ Pour switch de branche
 
 `git branch -b <nom-de-la-branche>`
 Pour créer une nouvelle branche
+
+Note pour plus tard :
+- checker les git actions pour un déploiement site statique ou serveless (ou les deux) https://github.com/Darmusey/sitemom/new/master?filename=.github%2Fworkflows%2Fstatic.yml&workflow_template=pages%2Fstatic
