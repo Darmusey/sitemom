@@ -10,3 +10,14 @@ h1 {
 .testclass2 {
     color: deeppink;
 }
+
+.grand-texte {
+font-size: 30px;
+color: blue;
+}
+
+/*test id logo*/
+
+#logo {
+
+}
