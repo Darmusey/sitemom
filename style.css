@@ -1,50 +1,49 @@
-p,   
-ul {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;  
-    font-size: 1em; 
+@font-face {
+    font-family: tt_fors_display_medium;
+    src: url(fonts/tt_fors_display_medium.otf);
+}
+
+@font-face {
+    font-family: tt_norms_light;
+    src: url(fonts/tt_norm_light.otf);
 }
 
 h1 {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;               
-    font-size: 2em;
-    text-align:     
-}
+    font-family: 'Arima Madurai', cursive;
+    font-size: 2.0em;
+}  
 
 h2 {    
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;               
-    font-size: 2em;
+    font-family: "tt_fors_display_medium";            
+    font-size: 1.0em
 }
 
+h3  {
+    font-family: 'Arima Madurai', cursive;
+    font-size: 1.8em;
+}
 
-a {
-    font-weight: 550;
+.navigation {   
+    text-decoration: none;
+    font-family: "tt_fors_display_medium";
+    font-size: 0.8em;
+    color: black;
+}
+
+.contact   {
+    font-family: "tt_fors_display_medium";
+    font-style: normal;
+    font-size: 1.0em;
+    color: black;
 }
 
 .presentation { 
-    color: black;  
+    font-family: 'Arima Madurai', cursive; 
+    font-size: 1.8em;
 }
 
-.important {
-    color: #4f04b1;
-    font-weight: 700;
+.definition {
+    font-family: "tt_norms_light";
+    font-size: 1.8em;
 }
 
-.grand-texte { 
-    font-size: 20px;
-    color: rgb(14, 14, 105);
-}
-
-.sub {
-    font-style: italic;
-}
-
-.contact {
-    font-weight: 550;
-}
-
-/*test id logo*/
-
-#logo {
-  
-
-}
